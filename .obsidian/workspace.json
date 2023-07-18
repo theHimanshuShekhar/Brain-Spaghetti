@@ -121,11 +121,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,13 +142,13 @@
   },
   "active": "e345aca889d41ee5",
   "lastOpenFiles": [
-    "Bhayanak Bot.md",
     "Bhayanak Streamer.md",
+    "Bhayanak Bot.md",
     "Database.md",
-    "discord-player.md",
     "Music.md",
     "Soundboard.md",
     "Tech Blogging Site.md",
+    "discord-player.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
     "Excalidraw",
     "[Bhayanak Bot.md",
