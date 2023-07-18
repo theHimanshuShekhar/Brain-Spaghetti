@@ -1,5 +1,7 @@
-#BhayanakBot #discord #sapphire-framework
-Custom Discord BOT
+## Custom Discord BOT
+
+#BhayanakBot #discord #sapphire-framework  
+
 [Github Repo](https://github.com/theHimanshuShekhar/BhayanakBot)
 
 Commands

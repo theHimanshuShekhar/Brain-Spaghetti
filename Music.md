@@ -1,5 +1,5 @@
-#BhayanakBot #discord #sapphire-framework 
+## A [[Bhayanak Bot]] command for music streaming
 
-A [[Bhayanak Bot]] command
+#BhayanakBot #discord #sapphire-framework 
 
 [[discord-player]] library

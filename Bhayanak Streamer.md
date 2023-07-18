@@ -1,3 +1,5 @@
+## Peer to Peer Streaming Software Using WebRTC
+
 #BhayanakStreamer #webRTC #Nextjs #Tailwind 
 
 Technologies used-
@@ -6,6 +8,7 @@ Technologies used-
 - Decide [[Database]] solution
 - [[Prisma]]
 - [[Tailwind]]
+- [[webRTC]]
 
 Infrastructure-
 - [[Vercel]]
