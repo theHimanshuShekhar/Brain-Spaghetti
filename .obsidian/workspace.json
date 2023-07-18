@@ -14,6 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a571fcc404c9e502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bhayanak Streamer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -34,7 +47,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -140,14 +153,15 @@
   },
   "active": "df9ec3d8124d85a7",
   "lastOpenFiles": [
-    "Bhayanak Bot.md",
+    "Bhayanak Streamer.md",
     "Tech Blogging Site.md",
     "Soundboard.md",
     "Music.md",
+    "discord-player.md",
     "Database.md",
+    "Bhayanak Bot.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
     "Excalidraw",
-    "discord-player.md",
     "[Bhayanak Bot.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

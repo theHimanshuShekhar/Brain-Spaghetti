@@ -1,7 +1,10 @@
+#Nextjs #Tailwind
+
 Technologies to use-
 - [[NextJS 13]]
 - [[Prisma]]
 - [[Tailwind]]
+- [[Clerk]]
 - [[ESLint]]
 - [[Jest]]
 - [[Storybook]]
