@@ -18,3 +18,5 @@ Infrastructure-
 - [[Vercel]]
 - [[Planetscale]]
 - [[Google Adsense]]
+
+Consider [[Database]] and database infrastructure

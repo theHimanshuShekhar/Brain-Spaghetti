@@ -14,3 +14,6 @@ Commands
 - [[Cat]]
 - [[Dog]]
 - [[IMDB search]]
+- [[Steam]]
+
+Consider if and what [[Database]] to use.

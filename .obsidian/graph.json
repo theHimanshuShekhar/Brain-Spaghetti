@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "BhayanakBot",
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.5546875,
-  "lineSizeMultiplier": 3.3921875,
-  "collapse-forces": false,
-  "centerStrength": 0.458333333333333,
-  "repelStrength": 9.79166666666667,
-  "linkStrength": 1,
-  "linkDistance": 243,
-  "scale": 1.0000000000000018,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 2.1671875,
+  "lineSizeMultiplier": 1.98854166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.302083333333333,
+  "repelStrength": 9.0625,
+  "linkStrength": 0.458333333333333,
+  "linkDistance": 30,
+  "scale": 0.7132754626224432,
   "close": true
 }

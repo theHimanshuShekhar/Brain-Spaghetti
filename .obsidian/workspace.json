@@ -11,13 +11,8 @@
             "id": "df9ec3d8124d85a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soundboard.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soundboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soundboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Soundboard.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,14 +138,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1fa0a77f8dcfb5b",
+  "active": "df9ec3d8124d85a7",
   "lastOpenFiles": [
-    "Tech Blogging Site.md",
     "Bhayanak Bot.md",
+    "Tech Blogging Site.md",
+    "Soundboard.md",
+    "Music.md",
+    "Database.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
     "Excalidraw",
-    "Music.md",
-    "Soundboard.md",
     "discord-player.md",
     "[Bhayanak Bot.md",
     "Untitled 1.canvas",
