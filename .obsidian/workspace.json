@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "66f4dcd195b40404",
@@ -145,10 +146,10 @@
     "Bhayanak Streamer.md",
     "Bhayanak Bot.md",
     "Database.md",
+    "discord-player.md",
     "Music.md",
     "Soundboard.md",
     "Tech Blogging Site.md",
-    "discord-player.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
     "Excalidraw",
     "[Bhayanak Bot.md",
