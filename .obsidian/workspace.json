@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c1c6cf1cedb247",
+        "id": "aedaa0ab81c1108f",
         "type": "tabs",
         "children": [
           {
-            "id": "e345aca889d41ee5",
+            "id": "d71e38101669ee36",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "66f4dcd195b40404",
@@ -141,17 +140,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e345aca889d41ee5",
+  "active": "b1fa0a77f8dcfb5b",
   "lastOpenFiles": [
-    "Bhayanak Streamer.md",
-    "Bhayanak Bot.md",
-    "Database.md",
+    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md",
+    "Tech Blogging Site.md",
+    "Excalidraw",
     "discord-player.md",
+    "Bhayanak Bot.md",
+    "Bhayanak Streamer.md",
+    "Database.md",
     "Music.md",
     "Soundboard.md",
-    "Tech Blogging Site.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
-    "Excalidraw",
     "[Bhayanak Bot.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
