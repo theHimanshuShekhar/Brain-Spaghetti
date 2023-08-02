@@ -17,5 +17,6 @@ Commands
 - [[Dog]]
 - [[IMDB search]]
 - [[Steam]]
+- [[Image]]
 
 Consider if and what [[Database]] to use.
