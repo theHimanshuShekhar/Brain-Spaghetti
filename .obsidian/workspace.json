@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58ddc6899be10eca",
+        "id": "ed591356fbe5b605",
         "type": "tabs",
         "children": [
           {
-            "id": "3f98fe21797b2935",
+            "id": "17b3b0020a665c68",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#VPN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,14 +140,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f98fe21797b2935",
+  "active": "17b3b0020a665c68",
   "lastOpenFiles": [
-    "MediaServer.md",
+    "VPN.md",
+    "Tailscale.md",
+    "Twingate.md",
+    "Media Server.md",
     "Homelab.md",
     "Zerotier.md",
-    "Twingate.md",
     "Arr Stack.md",
-    "VPN.md",
     "[Twingate.md",
     "Untitled.canvas",
     "discord-player.md",
