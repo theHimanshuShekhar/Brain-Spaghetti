@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aedaa0ab81c1108f",
+        "id": "58ddc6899be10eca",
         "type": "tabs",
         "children": [
           {
-            "id": "d71e38101669ee36",
+            "id": "3f98fe21797b2935",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,21 +140,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1fa0a77f8dcfb5b",
+  "active": "3f98fe21797b2935",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md",
-    "Tech Blogging Site.md",
-    "Excalidraw",
+    "MediaServer.md",
+    "Homelab.md",
+    "Zerotier.md",
+    "Twingate.md",
+    "Arr Stack.md",
+    "VPN.md",
+    "[Twingate.md",
+    "Untitled.canvas",
     "discord-player.md",
+    "Soundboard.md",
     "Bhayanak Bot.md",
     "Bhayanak Streamer.md",
     "Database.md",
+    "NextJS 13.md",
+    "Storybook.md",
+    "Tech Blogging Site.md",
+    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md",
+    "Excalidraw",
     "Music.md",
-    "Soundboard.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
     "[Bhayanak Bot.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "2023-07-18.md"
   ]
 }
