@@ -11,7 +11,7 @@
             "id": "17b3b0020a665c68",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -142,6 +142,10 @@
   },
   "active": "17b3b0020a665c68",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "2023-08-02.md",
     "VPN.md",
     "Tailscale.md",
     "Twingate.md",
@@ -150,7 +154,6 @@
     "Zerotier.md",
     "Arr Stack.md",
     "[Twingate.md",
-    "Untitled.canvas",
     "discord-player.md",
     "Soundboard.md",
     "Bhayanak Bot.md",
@@ -164,7 +167,6 @@
     "Music.md",
     "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
     "[Bhayanak Bot.md",
-    "Untitled 1.canvas",
     "2023-07-18.md"
   ]
 }
