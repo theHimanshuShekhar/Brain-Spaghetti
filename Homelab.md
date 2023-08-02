@@ -5,5 +5,5 @@ Operating System-
 
 Services-
 - [[VPN]]
-- [[Arr Stack]]
 - [[Media Server]]
+- [[Docker Dedicated Virtual Machine]]

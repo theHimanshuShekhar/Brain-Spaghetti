@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxmox.md",
-                "mode": "preview",
+                "file": "Homelab.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "eec78ec028913ad9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxmox.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proxmox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Proxmox.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,19 +154,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ae506f5e8426de8",
+  "active": "eec78ec028913ad9",
   "lastOpenFiles": [
+    "Docker Dedicated Virtual Machine.md",
+    "Homelab.md",
+    "Twingate.md",
+    "Tailscale.md",
     "Zerotier.md",
     "Proxmox.md",
-    "Tailscale.md",
-    "Twingate.md",
     "VPN.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "2023-08-02.md",
     "Media Server.md",
-    "Homelab.md",
     "Arr Stack.md",
     "[Twingate.md",
     "discord-player.md",
