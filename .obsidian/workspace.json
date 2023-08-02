@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17b3b0020a665c68",
+            "id": "3ae506f5e8426de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zerotier.md",
-                "mode": "source",
+                "file": "Proxmox.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ae506f5e8426de8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proxmox.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Proxmox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Proxmox.md"
+              }
             }
           }
         ],
@@ -156,8 +151,8 @@
   },
   "active": "3ae506f5e8426de8",
   "lastOpenFiles": [
-    "Proxmox.md",
     "Zerotier.md",
+    "Proxmox.md",
     "Tailscale.md",
     "Twingate.md",
     "VPN.md",
