@@ -11,11 +11,25 @@
             "id": "17b3b0020a665c68",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Zerotier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ae506f5e8426de8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,18 +154,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17b3b0020a665c68",
+  "active": "3ae506f5e8426de8",
   "lastOpenFiles": [
+    "Proxmox.md",
+    "Zerotier.md",
+    "Tailscale.md",
+    "Twingate.md",
+    "VPN.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "2023-08-02.md",
-    "VPN.md",
-    "Tailscale.md",
-    "Twingate.md",
     "Media Server.md",
     "Homelab.md",
-    "Zerotier.md",
     "Arr Stack.md",
     "[Twingate.md",
     "discord-player.md",
