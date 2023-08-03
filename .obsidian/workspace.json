@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ed591356fbe5b605",
+        "id": "7787493218dd41fe",
         "type": "tabs",
         "children": [
           {
-            "id": "eec78ec028913ad9",
+            "id": "df207f7c491bd136",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7d1f5a14c4e76fcd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,15 +151,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eec78ec028913ad9",
+  "active": "7d1f5a14c4e76fcd",
   "lastOpenFiles": [
+    "Proxmox.md",
     "Bhayanak Bot.md",
     "Homelab.md",
     "Docker Dedicated Virtual Machine.md",
     "Twingate.md",
     "Tailscale.md",
     "Zerotier.md",
-    "Proxmox.md",
     "VPN.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
