@@ -1,59 +1,50 @@
 {
   "main": {
-    "id": "efb7814fd2a9f883",
+    "id": "5744c2b2d42fe12d",
     "type": "split",
     "children": [
       {
-        "id": "7787493218dd41fe",
+        "id": "ce26ef5525d86de8",
         "type": "tabs",
         "children": [
           {
-            "id": "df207f7c491bd136",
+            "id": "50559070ec00649a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7d1f5a14c4e76fcd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "979ae26b340859a4",
+    "id": "6a2acaf869ff7eac",
     "type": "split",
     "children": [
       {
-        "id": "dcb957fdc1b238f1",
+        "id": "9c15dccfe1d74b00",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fa0a77f8dcfb5b",
+            "id": "445860690eaf64a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "928524e36ca17e92",
+            "id": "9071d875c15d5c51",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#VPN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +54,7 @@
             }
           },
           {
-            "id": "68f08948a3ed89e3",
+            "id": "66cb8b3af9bbe758",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,31 +68,31 @@
     "width": 300
   },
   "right": {
-    "id": "66f4dcd195b40404",
+    "id": "9a4647e5e3d75e2d",
     "type": "split",
     "children": [
       {
-        "id": "09b0b96c57030359",
+        "id": "af5c9cc2348c644c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa0ce10fb7e65d8",
+            "id": "a0de9ee95b0003d1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ebac9ebc8ec79665",
+            "id": "3227428a90a06753",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,7 +103,7 @@
             }
           },
           {
-            "id": "45f1765dd05aa701",
+            "id": "8f9658fa0d9a907e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,15 +114,14 @@
             }
           },
           {
-            "id": "0e5c293a82182aad",
+            "id": "5cc2adb779a7462a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,35 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d1f5a14c4e76fcd",
-  "lastOpenFiles": [
-    "Proxmox.md",
-    "Bhayanak Bot.md",
-    "Homelab.md",
-    "Docker Dedicated Virtual Machine.md",
-    "Twingate.md",
-    "Tailscale.md",
-    "Zerotier.md",
-    "VPN.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "2023-08-02.md",
-    "Media Server.md",
-    "Arr Stack.md",
-    "[Twingate.md",
-    "discord-player.md",
-    "Soundboard.md",
-    "Bhayanak Streamer.md",
-    "Database.md",
-    "NextJS 13.md",
-    "Storybook.md",
-    "Tech Blogging Site.md",
-    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md",
-    "Excalidraw",
-    "Music.md",
-    "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
-    "[Bhayanak Bot.md",
-    "2023-07-18.md"
-  ]
+  "active": "50559070ec00649a",
+  "lastOpenFiles": []
 }
