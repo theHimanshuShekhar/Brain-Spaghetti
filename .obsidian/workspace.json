@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3982a4650368704d",
+        "id": "b04ff5e7a1b0a415",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0b6f538e3dc2bb",
+            "id": "f73cd9e8bab5f15a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Blogging Site.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Blogging Site.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Blogging Site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tech Blogging Site.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "e73cea2fbd2b8176",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -149,16 +148,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd0b6f538e3dc2bb",
+  "active": "f73cd9e8bab5f15a",
   "lastOpenFiles": [
+    "Bhayanak Bot.md",
+    "Address.md",
+    "Person A.md",
+    "Chatbot.md",
+    "2023-09-22.md",
+    "Tech Blogging Site.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Twingate.md",
     "Bhayanak Streamer.md",
-    "Tech Blogging Site.md",
     "Soundboard.md",
-    "Bhayanak Bot.md",
     "Storybook.md",
     "Proxmox.md",
     "NextJS 13.md",
@@ -176,8 +179,6 @@
     "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md",
     "Excalidraw",
     "Music.md",
-    "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md",
-    "[Bhayanak Bot.md",
-    "2023-07-18.md"
+    "Excalidraw/Drawing 2023-07-18 14.02.53.excalidraw.md"
   ]
 }

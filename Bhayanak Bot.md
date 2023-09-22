@@ -18,5 +18,6 @@ Commands
 - [[IMDB search]]
 - [[Steam]]
 - [[Image]]
+- [[Chatbot]]
 
 Consider if and what [[Database]] to use.
