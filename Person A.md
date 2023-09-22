@@ -1,4 +1,0 @@
-[[DOB]]
-[[Address]]
-[[Age]]
-[[qualifications]]
