@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6b118adeec48f560",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f73cd9e8bab5f15a",
+  "active": "6b118adeec48f560",
   "lastOpenFiles": [
     "Address.md",
     "Person A.md",
