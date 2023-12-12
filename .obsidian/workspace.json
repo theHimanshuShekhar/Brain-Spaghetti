@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "fee7a1148c974882",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "455386f1c673417d",
+  "active": "fee7a1148c974882",
   "lastOpenFiles": [
     "Address.md",
     "Person A.md",
