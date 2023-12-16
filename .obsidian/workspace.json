@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9b18977bc84cad",
+        "id": "53eeaa5893ea7dde",
         "type": "tabs",
         "children": [
           {
-            "id": "455386f1c673417d",
+            "id": "be9085cb9a1b4fca",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "fee7a1148c974882",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fee7a1148c974882",
+  "active": "be9085cb9a1b4fca",
   "lastOpenFiles": [
     "Address.md",
     "Person A.md",
