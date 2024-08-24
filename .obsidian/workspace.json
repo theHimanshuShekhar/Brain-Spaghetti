@@ -4,29 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "53eeaa5893ea7dde",
+        "id": "3a8c3362e3e92b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "be9085cb9a1b4fca",
+            "id": "cf3b4ab60b16086b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0009cdd90d0f5581",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Tech Blogging Site.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Blogging Site.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech Blogging Site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Blogging Site.md"
+              }
             }
           },
           {
@@ -140,33 +138,32 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "0009cdd90d0f5581",
+  "active": "cf3b4ab60b16086b",
   "lastOpenFiles": [
+    "Bhayanak Bot.md",
+    "obsidian-hub-main.zip",
+    "Soundboard.md",
     "Address.md",
     "Person A.md",
     "Excalidraw/Drawing 2023-09-22 17.58.22.excalidraw.md",
     "Excalidraw",
-    "Bhayanak Bot.md",
-    "Soundboard.md",
     "Chatbot.md",
     "2023-09-22.md",
     "Tech Blogging Site.md",
@@ -189,7 +186,6 @@
     "Arr Stack.md",
     "[Twingate.md",
     "Database.md",
-    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md",
-    "Music.md"
+    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md"
   ]
 }

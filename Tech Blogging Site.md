@@ -10,7 +10,7 @@ Technologies to use-
 - [[ESLint]]
 - [[Jest]]
 - [[Storybook]]
-- [[Vscode]]
+- [[VS]]
 
 Key Points to focus on-
 - [[SEO]]

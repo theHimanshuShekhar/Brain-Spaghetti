@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "#5d3fd3",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "baseFontSizeAction": true
 }
