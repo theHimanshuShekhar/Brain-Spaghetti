@@ -11,13 +11,8 @@
             "id": "cf3b4ab60b16086b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Blogging Site.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -81,60 +76,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fa0ce10fb7e65d8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tech Blogging Site.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ebac9ebc8ec79665",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tech Blogging Site.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "45f1765dd05aa701",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "0e5c293a82182aad",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Tech Blogging Site.md"
-              }
-            }
-          },
-          {
-            "id": "e73cea2fbd2b8176",
+            "id": "b8c8a164dd649bd8",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7fb2bf9ddf7e646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29d2301a2ec642c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9caeb71d2b374598",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }
@@ -142,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,35 +148,36 @@
   },
   "active": "cf3b4ab60b16086b",
   "lastOpenFiles": [
-    "Bhayanak Bot.md",
-    "obsidian-hub-main.zip",
+    "Tech Blogging Site.md",
+    "NextJS.md",
+    "Media Server.md",
+    "Database.md",
+    "Storybook.md",
+    "Zerotier.md",
+    "VPN.md",
+    "discord-player.md",
     "Soundboard.md",
+    "Proxmox.md",
+    "Bhayanak Streamer.md",
+    "Bhayanak Bot.md",
+    "Twingate.md",
+    "Tailscale.md",
+    "Arr Stack.md",
+    "Homelab.md",
+    "Music.md",
+    "Docker Dedicated Virtual Machine.md",
+    "obsidian-hub-main.zip",
     "Address.md",
     "Person A.md",
     "Excalidraw/Drawing 2023-09-22 17.58.22.excalidraw.md",
     "Excalidraw",
     "Chatbot.md",
     "2023-09-22.md",
-    "Tech Blogging Site.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Twingate.md",
-    "Bhayanak Streamer.md",
-    "Storybook.md",
-    "Proxmox.md",
-    "NextJS 13.md",
-    "Zerotier.md",
-    "VPN.md",
-    "discord-player.md",
-    "Homelab.md",
-    "Docker Dedicated Virtual Machine.md",
-    "Tailscale.md",
     "2023-08-02.md",
-    "Media Server.md",
-    "Arr Stack.md",
     "[Twingate.md",
-    "Database.md",
     "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md"
   ]
 }

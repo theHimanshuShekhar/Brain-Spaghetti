@@ -3,14 +3,14 @@
 #Nextjs #Tailwind
 
 Technologies to use-
-- [[NextJS 13]]
+- [[NextJS]]
 - [[Prisma]]
 - [[Tailwind]]
 - [[Clerk]]
 - [[ESLint]]
 - [[Jest]]
 - [[Storybook]]
-- [[VS]]
+- [[VSCode]]
 
 Key Points to focus on-
 - [[SEO]]
@@ -22,6 +22,6 @@ Key Points to focus on-
 Infrastructure-
 - [[Vercel]]
 - [[Planetscale]]
-- [[Google Adsense]]
+- [[Google AdSense]]
 
 Consider [[Database]] and database infrastructure
