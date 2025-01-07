@@ -12,10 +12,25 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d75e077149f11f66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +50,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +67,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +104,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -91,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -107,7 +132,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -118,7 +145,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -126,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -146,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "cf3b4ab60b16086b",
+  "active": "d75e077149f11f66",
   "lastOpenFiles": [
     "Tech Blogging Site.md",
     "NextJS.md",
