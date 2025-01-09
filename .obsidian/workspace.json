@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "d75e077149f11f66",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,26 +164,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "d75e077149f11f66",
+  "active": "cf3b4ab60b16086b",
   "lastOpenFiles": [
+    "Docker Dedicated Virtual Machine.md",
+    "Homelab.md",
+    "Pihole.md",
+    "Database.md",
+    "Bhayanak Streamer.md",
     "Tech Blogging Site.md",
     "NextJS.md",
     "Media Server.md",
-    "Database.md",
     "Storybook.md",
     "Zerotier.md",
     "VPN.md",
     "discord-player.md",
     "Soundboard.md",
     "Proxmox.md",
-    "Bhayanak Streamer.md",
     "Bhayanak Bot.md",
     "Twingate.md",
     "Tailscale.md",
     "Arr Stack.md",
-    "Homelab.md",
     "Music.md",
-    "Docker Dedicated Virtual Machine.md",
     "obsidian-hub-main.zip",
     "Address.md",
     "Person A.md",
@@ -208,7 +196,6 @@
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "2023-08-02.md",
-    "[Twingate.md",
-    "Excalidraw/Drawing 2023-07-19 21.23.41.excalidraw.md"
+    "[Twingate.md"
   ]
 }
